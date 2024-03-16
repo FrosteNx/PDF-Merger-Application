@@ -58,6 +58,7 @@ class output_field(QLineEdit):
         self.height = 55
         self.setStyleSheet('font-size: 30px;')
         self.setFixedHeight(self.height)
+        self.setFixedWidth(730)
         
     def dragEnterEvent(self, event):
         if event.mimeData().hasUrls():
@@ -116,7 +117,7 @@ class PDFapp(QWidget):
         
         self.buttonDeleteSelect = button('&Delete')
         self.buttonDeleteSelect.clicked.connect(self.deleteSelected)
-        buttonLayout.addWidget(self.buttonDeleteSelect, 1, Qt.AlignRight)
+        buttonLayout.addWidget(self.buttonDeleteSelect)
         
         self.buttonMerge = button('&Merge')
         self.buttonMerge.clicked.connect(self.mergeFile)
@@ -184,6 +185,15 @@ class PDFapp(QWidget):
         
 app = QApplication(sys.argv)
 app.setStyle('fusion')
+
+dark_palette = QPalette()
+dark_palette.setColor(QPalette.Window, QColor(53, 53, 53))
+dark_palette.setColor(QPalette.Base, QColor(25, 25, 25))
+dark_palette.setColor(QPalette.Text, QColor(255, 255, 255))
+dark_palette.setColor(QPalette.Button, QColor(53, 53, 53))
+dark_palette.setColor(QPalette.ButtonText, QColor(255, 255, 255))
+
+app.setPalette(dark_palette)
 
 pdfApp = PDFapp()
 pdfApp.show()
