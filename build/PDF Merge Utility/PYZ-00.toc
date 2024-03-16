@@ -352,8 +352,8 @@
   ('_pyi_rth_utils',
    'C:\\Users\\Dominik\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\__init__.py',
    'PYMODULE'),
-  ('_pyi_rth_utils.qt',
-   'C:\\Users\\Dominik\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\qt.py',
+  ('_pyi_rth_utils._win32',
+   'C:\\Users\\Dominik\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\PyInstaller\\fake-modules\\_pyi_rth_utils\\_win32.py',
    'PYMODULE'),
   ('_strptime',
    'C:\\Program '
@@ -714,10 +714,6 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\email\\utils.py',
    'PYMODULE'),
-  ('fnmatch',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\fnmatch.py',
-   'PYMODULE'),
   ('fractions',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\fractions.py',
@@ -873,10 +869,6 @@
   ('inspect',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\inspect.py',
-   'PYMODULE'),
-  ('ipaddress',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\ipaddress.py',
    'PYMODULE'),
   ('json',
    'C:\\Program '
@@ -1407,10 +1399,6 @@
   ('packaging.version',
    'C:\\Users\\Dominik\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\packaging\\version.py',
    'PYMODULE'),
-  ('pathlib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\pathlib.py',
-   'PYMODULE'),
   ('pdb',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\pdb.py',
@@ -1789,14 +1777,6 @@
   ('threadpoolctl',
    'C:\\Users\\Dominik\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\threadpoolctl.py',
    'PYMODULE'),
-  ('token',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\token.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\tokenize.py',
-   'PYMODULE'),
   ('tracemalloc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\tracemalloc.py',
@@ -1852,26 +1832,6 @@
   ('unittest.util',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\unittest\\util.py',
-   'PYMODULE'),
-  ('urllib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\__init__.py',
-   'PYMODULE'),
-  ('urllib.error',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\error.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('urllib.request',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\request.py',
-   'PYMODULE'),
-  ('urllib.response',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2288.0_x64__qbz5n2kfra8p0\\Lib\\urllib\\response.py',
    'PYMODULE'),
   ('uuid',
    'C:\\Program '
