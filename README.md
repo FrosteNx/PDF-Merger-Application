@@ -10,7 +10,6 @@ This application is designed to merge multiple PDF files into a single PDF file.
 
 - **Merge PDFs**: Combine multiple PDF files into one.
 - **Ordering**: Arrange the order of PDFs as per your requirement before merging.
-- **Cross-Platform**: Works on multiple operating systems including Windows, MacOS, and Linux.
 
 ## Installation
 
