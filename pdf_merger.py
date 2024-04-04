@@ -98,7 +98,7 @@ class PDFapp(QWidget):
         super().__init__()
         self.setWindowTitle('PDF Merger')
         self.setWindowIcon(QIcon(resource_path('PDF.ico')))
-        self.resize(1000, 600)
+        self.setFixedSize(1000, 600)
         self.initUI()
         
     def initUI(self):
